@@ -6,7 +6,7 @@
 - El tiempo límite para la evaluación es 100 minutos.
 - Cada pregunta deberá ser respondida en un archivo cabecera (`.h`):
     - `sort_except.h`
-    - `tokenize_concurrently.h`
+    - `parallel_max.h`
 - Adicionalmente, la **pregunta #2** podrá ser elaborada en el mismo archivo de la **pregunta #1**.
 - Deberás subir estos archivos directamente a [www.gradescope.com](https://www.gradescope.com) o se puede crear un `.zip` que contenga todos ellos y subirlo.
 
